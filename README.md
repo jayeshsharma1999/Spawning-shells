@@ -1,4 +1,9 @@
 
+
+# Spawning-shell Cheat Sheet
+
+
+
 ## Using python
 > python -c 'import pty; pty.spawn("/bin/sh")'
 
